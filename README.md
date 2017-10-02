@@ -1,4 +1,3 @@
 # test2
-new course
-hi all
+hi from master
 
